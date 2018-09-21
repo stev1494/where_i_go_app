@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#454c74</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3f91d4</color>
+
+    <color name="badgeText">#b71c1c</color>
+    <color name="text_gris">#666</color>
+    <color name="text_gris_claro">#aaa</color>
+    <color name="text_gris_mas_claro">#eee</color>
+    <color name="blanco_tras">#11eeeeee</color>
+
+    <color name="label">#ca135c</color>
+
+    <color name="menuInactive">#9c9c9c</color>
+
+    <color name="menu01">#ff983d</color>
+    <color name="menu02">#23a14b</color>
+    <color name="menu03">#3083c7</color>
+</resources>

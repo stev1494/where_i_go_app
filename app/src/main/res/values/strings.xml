@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Where I Go?</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="routes">Rutas</string>
+    <string name="near_route">Más cerca</string>
+    <string name="find_route">Buscar ruta</string>
+</resources>
