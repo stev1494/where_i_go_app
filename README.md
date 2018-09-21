@@ -1,5 +1,9 @@
 # Where I go?
 
+No saber que bus tomar para ir a un lugar que no conoces puede ser una experiencia muy incómoda . por ello y más se implenta esta app.
+
+![screenshot_20180921-004007](https://user-images.githubusercontent.com/40500201/45862573-f2d9a180-bd37-11e8-856b-f39d02e9dbbc.png)
+
 App hecha en Android que muestra rutas de buses de la ciudad de Guayaquil, Ecuador. 
 
 Se compone de tres secciones: "Rutas", "Más cerca" y "Buscar ruta".
@@ -32,6 +36,14 @@ La Clave de API Generada se copia a la variable *google_maps_key* ubicada en el 
 ## Diseño
 Posee dos activities la principal contiene 3 fragments o fragmentos.
 
+
+![screenshot_20180921-003954](https://user-images.githubusercontent.com/40500201/45862574-f2d9a180-bd37-11e8-9119-8ade89b4b67d.png)
+
+
+![screenshot_20180921-004053](https://user-images.githubusercontent.com/40500201/45862575-f3723800-bd37-11e8-91aa-06e4f3b6da12.png)
+
+
+
 Un fragmento es una sección “modular” de interfaz de usuario embebida dentro de una actividad anfitriona, el cual permite versatilidad y optimización de diseño.
 
 En cada fragment se muestra una seccion de la aplicacion en especial, que corresponde a :
@@ -41,9 +53,13 @@ En cada fragment se muestra una seccion de la aplicacion en especial, que corres
 
 El otro activity se abre cuando en la pestaña de la lista de rutas se selecciona una , haciendo que se cargue un mapa.
 
+![screenshot_20180921-004115](https://user-images.githubusercontent.com/40500201/45862576-f3723800-bd37-11e8-8f0e-1856cfa72962.png)
 
 
 
+
+
+  ------------
 
 ## Contribuciones especiales al proyecto
 
